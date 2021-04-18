@@ -21,7 +21,7 @@ search.app:
 
 ## Syntax
 
-`Xrm.Utility.getEntityDefaultMainFormDescriptor(entityName, formId);`
+`Xrm.Utility.getEntityMainFormDescriptor(entityName, formId);`
 
 ## Parameters
 
